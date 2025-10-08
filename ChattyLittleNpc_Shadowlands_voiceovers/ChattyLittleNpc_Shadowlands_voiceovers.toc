@@ -1,8 +1,8 @@
-## Interface: 110200
+## Interface: 110205
 ## Title: Chatty Little NPC: Shadowlands
 ## Notes: This is a quest voiceover pack for Chatty Little NPC addon.
 ## Author: Tuubby
-## Version: 2.0.2
+## Version: 2.0.3
 ## Dependencies: ChattyLittleNPC
 
 embeds.xml
