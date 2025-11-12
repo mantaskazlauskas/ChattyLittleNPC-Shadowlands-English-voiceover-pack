@@ -1,5 +1,5 @@
 ---@class ChattyLittleNpc_Shadowlands_voiceovers
-local ChattyLittleNpc_Shadowlands_voiceovers = LibStub("AceAddon-3.0"):GetAddon("ChattyLittleNpc_Shadowlands_voiceovers")
+local ChattyLittleNpc_Shadowlands_voiceovers = _G["ChattyLittleNpc_Shadowlands_voiceovers"]
 
 ChattyLittleNpc_Shadowlands_voiceovers.Voiceovers = {
     '156822_Gossip_020b6b67be53b8228c14284040b87145.ogg',
