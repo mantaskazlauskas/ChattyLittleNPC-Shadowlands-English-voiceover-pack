@@ -1,5 +1,6 @@
----@class ChattyLittleNpc_Shadowlands_voiceovers
-local ChattyLittleNpc_Shadowlands_voiceovers = LibStub("AceAddon-3.0"):NewAddon("ChattyLittleNpc_Shadowlands_voiceovers")
+---@class ChattyLittleNpc_Shadowlands_voiceovers: table
+local ChattyLittleNpc_Shadowlands_voiceovers = {}
+_G["ChattyLittleNpc_Shadowlands_voiceovers"] = ChattyLittleNpc_Shadowlands_voiceovers
 
 ChattyLittleNpc_Shadowlands_voiceovers.Metadata = {
     ContainsQuestVoiceovers = true,
