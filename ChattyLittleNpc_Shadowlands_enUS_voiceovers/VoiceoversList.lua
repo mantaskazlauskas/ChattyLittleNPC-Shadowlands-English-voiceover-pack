@@ -1,5 +1,6 @@
 ---@class ChattyLittleNpc_Shadowlands_enUS_voiceovers
-local ChattyLittleNpc_Shadowlands_enUS_voiceovers = _G["ChattyLittleNpc_Shadowlands_enUS_voiceovers"]
+local ChattyLittleNpc_Shadowlands_enUS_voiceovers = {}
+_G["ChattyLittleNpc_Shadowlands_enUS_voiceovers"] = ChattyLittleNpc_Shadowlands_enUS_voiceovers
 
 ChattyLittleNpc_Shadowlands_enUS_voiceovers.Voiceovers = {
     '154169_Gossip_3994efd52c92ff405087754f92f33077.ogg',
