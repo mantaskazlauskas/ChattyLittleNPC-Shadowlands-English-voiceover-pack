@@ -1,7 +1,7 @@
----@class ChattyLittleNpc_Shadowlands_voiceovers
-local ChattyLittleNpc_Shadowlands_voiceovers = _G["ChattyLittleNpc_Shadowlands_voiceovers"]
+---@class ChattyLittleNpc_Shadowlands_enUS_voiceovers
+local ChattyLittleNpc_Shadowlands_enUS_voiceovers = _G["ChattyLittleNpc_Shadowlands_enUS_voiceovers"]
 
-ChattyLittleNpc_Shadowlands_voiceovers.Voiceovers = {
+ChattyLittleNpc_Shadowlands_enUS_voiceovers.Voiceovers = {
     '154169_Gossip_3994efd52c92ff405087754f92f33077.ogg',
     '154327_Gossip_3112205214355dfd42e014e5980f0841.ogg',
     '156688_Gossip_b8301720ec8dccf19d912d8af0676a95.ogg',
@@ -7013,7 +7013,7 @@ ChattyLittleNpc_Shadowlands_voiceovers.Voiceovers = {
     '85026_Desc.ogg',
 }
 
-ChattyLittleNpc_Shadowlands_voiceovers.VoiceoverDurations = {
+ChattyLittleNpc_Shadowlands_enUS_voiceovers.VoiceoverDurations = {
     ["154169_Gossip_3994efd52c92ff405087754f92f33077.ogg"] = 3.38,
     ["154327_Gossip_3112205214355dfd42e014e5980f0841.ogg"] = 6.54,
     ["156688_Gossip_b8301720ec8dccf19d912d8af0676a95.ogg"] = 7.41,
